@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Happy Birthday</string>
 
-    <string name="hello_world">Happy Birthday</string>
+    <string name="hello_world">Happy Birthday Android</string>
     <string name="action_settings">Settings</string>
+
 </resources>
